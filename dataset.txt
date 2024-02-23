@@ -1,0 +1,14 @@
+"Province","Language", "JulyTemp", "JanuaryTemp", "Precipitation", "GDPShare", "Tax", "Population"
+Alberta,E,17.17,-8.72,43.56,0.1633,0.05,4756408
+British Columbia,E,14.68,-2.84,145.5,0.1405,0.12,5581127
+Manitoba,EF,19.91,-18.14,30,0.0308,0.12,1465440
+New Brunswick,EF,21.44,-7.5,67.45,0.0158,0.15,842725
+Newfoundland and Labrador,E,13.65,-12.29,55.15,0.0145,0.15,540418
+Northwest Territories,EF,18.27,-23.43,17.94,0.002,0.05,44760
+Nova Scotia,E,18.83,-2.1,70.26,0.0193,0.15,1066416
+Nunavut,EF,6.08,-26.26,13.65,0.0017,0.05,40817
+Ontario,EF,20.17,-15.65,40.94,0.3726,0.13,15801768
+Prince Edward Island,E,19.59,-5.69,67.78,0.0033,0.15,175853
+Quebec,F,20.49,-11.28,72.07,0.1939,0.14975,8948540
+Saskatchewan,E,19.92,-14.37,28.86,0.0407,0.11,1218976
+Yukon,EF,16.54,-19.02,18.86,0.0014,0.05,45148
